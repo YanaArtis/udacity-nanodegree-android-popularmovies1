@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <!-- string name="hello_world">Hello world!</string -->
+    <string name="action_settings">Settings</string>
+    <string name="action_sort_most_popular">Show most popular</string>
+    <string name="action_sort_highest_rated">Show highest rated</string>
+    <string name="title_sort_most_popular">Most Popular</string>
+    <string name="title_sort_highest_rated">Highest Rated</string>
+    <string name="prefs_key_sort_mode" translatable="false">SortMode</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="movie_detail_release_date">Release Date:</string>
+    <string name="movie_detail_vote_average">User Rating:</string>
+
+    <string name="EXTRA_ORIGINAL_TITLE" translatable="false">EXTRA_ORIGINAL_TITLE</string>
+    <string name="EXTRA_IMAGE_URL" translatable="false">EXTRA_IMAGE_URL</string>
+    <string name="EXTRA_OVERVIEW" translatable="false">EXTRA_OVERVIEW</string>
+    <string name="EXTRA_VOTE_AVERAGE" translatable="false">EXTRA_VOTE_AVERAGE</string>
+    <string name="EXTRA_RELEASE_DATE" translatable="false">EXTRA_RELEASE_DATE</string>
+
+</resources>
